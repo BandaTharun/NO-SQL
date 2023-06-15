@@ -1,0 +1,17 @@
+query,dataset,first_mean_time,mean_time
+{'first_name': 'Bernardo'},25%,131.57296180725098,126.89663569132487
+{'first_name': 'Bernardo'},50%,129.08101081848145,135.22719542185465
+{'first_name': 'Bernardo'},75%,127.85792350769043,127.33436425526936
+{'first_name': 'Bernardo'},100%,127.84695625305176,128.33755016326904
+"{'first_name': 'Vitoria', 'last_name': 'Rings'}",25%,127.64501571655273,128.22575569152832
+"{'first_name': 'Vitoria', 'last_name': 'Rings'}",50%,127.19106674194336,128.12174956003824
+"{'first_name': 'Vitoria', 'last_name': 'Rings'}",75%,129.4710636138916,132.74964491526285
+"{'first_name': 'Vitoria', 'last_name': 'Rings'}",100%,125.71191787719727,127.28765805562337
+"{'ip_address': '204.93.6.241', 'last_name': 'Ellwood'}",25%,126.2979507446289,128.3094565073649
+"{'ip_address': '204.93.6.241', 'last_name': 'Ellwood'}",50%,126.47199630737305,132.33045736948648
+"{'ip_address': '204.93.6.241', 'last_name': 'Ellwood'}",75%,127.71201133728027,127.26240952809651
+"{'ip_address': '204.93.6.241', 'last_name': 'Ellwood'}",100%,126.3728141784668,133.9643955230713
+"{'first_name': 'Zorina', 'last_name': 'Mannin', 'email': 'zmanning@booking.com'}",25%,126.66201591491699,126.71225070953369
+"{'first_name': 'Zorina', 'last_name': 'Mannin', 'email': 'zmanning@booking.com'}",50%,125.8690357208252,127.97396183013916
+"{'first_name': 'Zorina', 'last_name': 'Mannin', 'email': 'zmanning@booking.com'}",75%,128.06391716003418,132.36680825551352
+"{'first_name': 'Zorina', 'last_name': 'Mannin', 'email': 'zmanning@booking.com'}",100%,132.673978805542,128.190016746521

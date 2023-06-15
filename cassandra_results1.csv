@@ -1,0 +1,17 @@
+query,dataset_size,first_mean_time,mean_time
+SELECT * FROM data_25 WHERE first_name='Bernardo' ALLOW FILTERING,25,90.99197388,53.36015224
+SELECT * FROM data_25 WHERE first_name='Vitoria' AND last_name='Rings' ALLOW FILTERING,25,53.35569382,64.63174025
+SELECT * FROM data_25 WHERE first_name='Zorina' AND last_name='Mannin' AND email='zmanning@booking.com' ALLOW FILTERING,25,53.7610054,60.96750895
+SELECT * FROM data_25 WHERE ip_address='204.93.6.241' AND last_name='Ellwood' ALLOW FILTERING,25,59.24391747,54.52284018
+SELECT * FROM data_50 WHERE first_name='Bernardo' ALLOW FILTERING,50,58.65883827,54.39640681
+SELECT * FROM data_50 WHERE first_name='Vitoria' AND last_name='Rings' ALLOW FILTERING,50,53.77221107,53.34692796
+SELECT * FROM data_50 WHERE first_name='Zorina' AND last_name='Mannin' AND email='zmanning@booking.com' ALLOW FILTERING,50,62.30902672,62.38062382
+SELECT * FROM data_50 WHERE ip_address='204.93.6.241' AND last_name='Ellwood' ALLOW FILTERING,50,58.10403824,52.91176637
+SELECT * FROM data_75 WHERE first_name='Bernardo' ALLOW FILTERING,75,59.50212479,55.26761214
+SELECT * FROM data_75 WHERE first_name='Vitoria' AND last_name='Rings' ALLOW FILTERING,75,55.21321297,56.24856154
+SELECT * FROM data_75 WHERE first_name='Zorina' AND last_name='Mannin' AND email='zmanning@booking.com' ALLOW FILTERING,75,66.63608551,59.33237076
+SELECT * FROM data_75 WHERE ip_address='204.93.6.241' AND last_name='Ellwood' ALLOW FILTERING,75,63.71688843,57.37867355
+SELECT * FROM data_100 WHERE first_name='Bernardo' ALLOW FILTERING,100,63.83180618,60.46038469
+SELECT * FROM data_100 WHERE first_name='Vitoria' AND last_name='Rings' ALLOW FILTERING,100,58.77494812,55.14367421
+SELECT * FROM data_100 WHERE first_name='Zorina' AND last_name='Mannin' AND email='zmanning@booking.com' ALLOW FILTERING,100,55.05990982,55.22549947
+SELECT * FROM data_100 WHERE ip_address='204.93.6.241' AND last_name='Ellwood' ALLOW FILTERING,100,57.10697174,57.68549442
